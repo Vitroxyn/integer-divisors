@@ -1,6 +1,6 @@
 # integer-divisors
 
-> Calculate efficiently divisors (also called factors) of small natural numbers.
+> Efficient calculation of divisors (also called factors) of small natural numbers.
 
 ## License
 
