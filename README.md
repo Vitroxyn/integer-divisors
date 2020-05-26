@@ -1,6 +1,7 @@
 # integer-divisors
 
-![](https://github.com/vitroxyn/integer-divisors/workflows/build/badge.svg)
+[![](https://github.com/vitroxyn/integer-divisors/workflows/build/badge.svg)](https://github.com/vitroxyn/integer-divisors/actions?query=workflow%3Abuild)
+[![Coverage Status](https://coveralls.io/repos/github/Vitroxyn/integer-divisors/badge.svg?branch=master)](https://coveralls.io/github/Vitroxyn/integer-divisors?branch=master)
 
 > Efficient calculation of divisors (also called factors) of small natural numbers.
 
