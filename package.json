@@ -1,14 +1,20 @@
 {
   "name": "integer-divisors",
   "author": "Matthias Schwarz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
-    "divisor", "factor", "math", "mathematics", "arithmetic", "division", "integer", "number"
+    "divisor",
+    "factor",
+    "math",
+    "mathematics",
+    "arithmetic",
+    "division",
+    "integer",
+    "number"
   ],
   "description": "Efficient calculation of divisors (also called factors) of small natural numbers",
   "homepage": "https://github.com/vitroxyn/integer-divisors#readme",
   "bugs": "https://github.com/vitroxyn/integer-divisors/issues",
-
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -46,7 +52,7 @@
     "husky": "^4.2.5",
     "tsdx": "^0.13.2",
     "tslib": "^2.0.0",
-    "typedoc": "^0.17.7",
-    "typescript": "^3.9.3"
+    "typedoc": "^0.17.8",
+    "typescript": "^3.9.7"
   }
 }
